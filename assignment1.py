@@ -120,3 +120,4 @@ table['p_term'] = table['term'].map(p_term)
 ## The table is the answer for Q5
 print(table)
 table.to_csv('/Users/Guang/Downloads/finalTable', sep='\t')
+
